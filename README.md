@@ -1,4 +1,4 @@
-# Website using react (FRONTEND only)
+# Website using react (Frontend Projects)
 
 ![furn](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/c04521f3-bdc0-4e69-9bf8-09fe5e78e266)
 ![furn1](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/971e0967-a462-49bc-9d17-f11005b00eb8)
