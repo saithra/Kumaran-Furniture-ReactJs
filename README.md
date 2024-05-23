@@ -5,7 +5,7 @@
 ![furn2](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/9ac6706e-0dc3-4831-9d90-b9b1ccf5ed36)
 ![furn3](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/c944dca9-8a20-4a37-9594-83fd19a096d4)
 ![furn4](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/684d2b73-fb60-40f9-bae6-edf1768cae02)
-![furn5](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/9c84e134-4c5b-4653-8f41-2f7a0141df3c)
+
 # Sales
 ![furn6](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/81123ede-a373-417f-a386-e81361317749)
 ![furn7](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/bebcecc2-a7c3-4502-bf12-5301c0f1919e)
@@ -25,3 +25,4 @@
 # Inspiration
 ![furn19](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/1f819d22-cfa6-4eb4-a923-7d06ef4cfe7b)
 ![furn20](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/43cee943-7b98-464f-b5e4-ea353e00885c)
+![furn5](https://github.com/saithra/Kumaran-Furniture-ReactJs/assets/149575617/9c84e134-4c5b-4653-8f41-2f7a0141df3c)
